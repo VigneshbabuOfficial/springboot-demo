@@ -17,7 +17,7 @@ public class SpringBootDemo3Application {
 	
 	@GetMapping
 	public String demoMethod() {
-		return "Hello Welcome";
+		return "Hello Welcome EC2 Instance demo !";
 	}
 
 }
